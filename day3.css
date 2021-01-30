@@ -1,0 +1,12 @@
+#red    {color:orangered}
+.green  {color:green}
+.big    {font-size:25px; line-height: 30px;}
+.bold  {font-weight:bold;}
+div     {height:100px; width:100px}
+div.box-1   {background-color: firebrick;}
+div.box-2   {background-color: steelblue;}
+body    {background-color: darkgray; color:white}
+#cool-font  {font-family: Arial, Helvetica, sans-serif;}
+.border {border: 3px solid steelblue; border-radius: 25px;}
+.img {background-image: url(https://www.extremetech.com/wp-content/uploads/2014/04/bliss-windows-xp-original-640x514.jpg); background-repeat: no-repeat;
+background-size: 100% auto;background-position: center top;}
